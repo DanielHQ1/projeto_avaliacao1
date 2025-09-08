@@ -4,6 +4,7 @@
 
 int main()
 {
+    // parei parei
     bool continuar_atribuicao = true;
     int polinomio[1][50];
     int grau_poli;
