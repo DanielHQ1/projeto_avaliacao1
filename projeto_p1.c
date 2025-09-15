@@ -36,7 +36,7 @@ int main()
     {
         printf("Entrada invalida! Encerrando programa.\n");
     }
-    escreved_grau_polinomio(grau_poli, polinomio);
+    escreve_grau_polinomio(grau_poli, polinomio);
 
 
         
@@ -56,7 +56,7 @@ int main()
         
     }
 
-    
+
 
 
     printf("\nPolinomio montado:\n");
